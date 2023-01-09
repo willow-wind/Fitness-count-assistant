@@ -1,0 +1,6 @@
+mediapipe==0.9.0.1
+numpy==1.23.1
+opencv-contrib-python==4.6.0.66
+pyttsx3==2.90
+schedule==1.1.0
+matplotlib==3.6.2
